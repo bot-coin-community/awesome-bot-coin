@@ -1,3 +1,5 @@
+![BOT Coin](BOT_coin.png)
+
 # Awesome $BOT Coin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Awesome [$BOT coin](https://www.rally.io/creator/BOT/) links
 
