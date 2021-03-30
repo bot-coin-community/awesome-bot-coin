@@ -15,9 +15,9 @@ Groups and members in alphabetical order w/ their ![Rally Username](https://www.
 ### Designers
 
 ### Developers
-- [Mark Tucker](https://github.com/rmtuckerphx) (marktucker)
 - [Alex Swetlow](https://github.com/aswetlow) (aswetlow)
 - [Jan König](https://github.com/jankoenig) (einkoenig)
+- [Mark Tucker](https://github.com/rmtuckerphx) (marktucker)
 
 ### Influencers
 
