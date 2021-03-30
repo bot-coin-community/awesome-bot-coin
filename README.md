@@ -16,5 +16,10 @@ Groups and members in alphabetical order w/ their ![Rally Username](https://www.
 
 ### Developers
 - [Mark Tucker](https://github.com/rmtuckerphx) (marktucker)
+- [Alex Swetlow](https://github.com/aswetlow) (aswetlow)
+- [Jan König](https://github.com/jankoenig) (einkoenig)
 
 ### Influencers
+
+### Companies
+- [Jovo](https://github.com/jovotech) (jovotech)
