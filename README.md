@@ -17,6 +17,7 @@ Groups and members in alphabetical order w/ their ![Rally Username](https://www.
 
 ### Developers
 - [Alex Swetlow](https://github.com/aswetlow) (aswetlow)
+- [Dana Gibson](https://www.twitter.com/sdalexaenthused) (danainsd)
 - [Jan König](https://github.com/jankoenig) (einkoenig)
 - [Mark Tucker](https://github.com/rmtuckerphx) (marktucker)
 - [Octavio Menocal](https://www.octaviomenocal.com) (omenocal)
