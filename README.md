@@ -22,6 +22,8 @@ Groups and members in alphabetical order w/ their ![Rally Username](https://www.
 - [Roger Kibbe](https://github.com/rogerkibbe) (rogerkibbe)
 
 ### Influencers
+- [Voice Search Marketing ](https://joinclubhouse.com/@solutions) (priscillanunez)
+
 
 ### Researchers
 - [Voicebot.ai](https://voicebot.ai) (Voicebot)
