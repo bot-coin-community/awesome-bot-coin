@@ -19,6 +19,7 @@ Groups and members in alphabetical order w/ their ![Rally Username](https://www.
 - [Alex Swetlow](https://github.com/aswetlow) (aswetlow)
 - [Jan König](https://github.com/jankoenig) (einkoenig)
 - [Mark Tucker](https://github.com/rmtuckerphx) (marktucker)
+- [Roger Kibbe](https://github.com/rogerkibbe) (rogerkibbe)
 
 ### Influencers
 
