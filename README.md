@@ -23,5 +23,9 @@ Groups and members in alphabetical order w/ their ![Rally Username](https://www.
 
 ### Influencers
 
+### Researchers
+- [Voicebot.ai](https://voicebot.ai) (Voicebot)
+
+
 ### Companies
 - [Jovo](https://github.com/jovotech) (jovotech)
